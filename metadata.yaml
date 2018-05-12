@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39999'
     url: http://www.gutenberg.org/2009/agents/39999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39396#A-Population-Study-of-the-Prairie-Vole--Microtus-ochrogaster--in-Northeastern-Kansas
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
